@@ -1,0 +1,323 @@
+@charset "utf-8";
+.Contenedor_Principal .Cabecera {
+	width: 100%;
+	height: 80px;
+	background-color: #F4F4F4;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 23pt;
+	padding-top: 28px;
+	border-radius: 7px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: normal;
+}
+.Contenedor_Principal .Menú {
+	width: 100%;
+	height: 29px;
+	background-color: #B47494;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 15pt;
+	border-radius: 4px;
+	margin-top: 8px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.Contenedor_Principal .Cabecera img {
+	width: 23%;
+	height: 106px;
+	margin-top: -27px;
+	margin-left: 5px;
+}
+.Contenedor_Principal nav {
+	width: 100%;
+	height: 29px;
+	background-color: #B47494;
+	border-radius: 5px;
+	margin-top: 7px;
+	font-family: font-family
+: 'Pacifico', cursive;
+: 'Pacifico', cursive;;
+}
+
+
+.Contenedor_Principal .Menú_Lateral {
+	width: 48%;
+	background-color: #EF1B9F;
+	height: 300px;
+	border-radius: 9px;
+	margin-top: 18px;
+	color: #FFFFFF;
+	text-align: center;
+	float: left;
+	margin-bottom: 10px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	;
+	;
+	;
+	;
+	font-size: 11pt;
+	font-style: normal;
+
+}
+.Contenedor_Principal .Piede_página img {
+	width: 10%;
+	height: 35px;
+	margin-top: 6px;
+}
+
+.Contenedor_Principal .Publicación {
+	width: 48%;
+	background-color: #D5A2A3;
+	float: right;
+	height: 300px;
+	border-radius: 8px;
+	margin-top: 11px;
+	margin-right: 11px;
+	margin-left: 11px;
+	margin-bottom: 11px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #FFFDFD;
+	padding-top: 9px;
+	padding-bottom: 10px;
+}
+.Contenedor_Principal .Publicación .Artículo_1 {
+	width: 95%;
+	background-color: #D864A1;
+	text-align: center;
+	border-radius: 5px;
+	margin: auto;
+	height: 30px;
+	font-family: 'Pacifico', cursive;
+	font-size: 16px;
+}
+.Contenedor_Principal .Publicación .Artículo_2 {
+	width: 45%;
+	background-color: #A8559B;
+	height: 186px;
+	text-align: center;
+	margin-top: 21px;
+	margin-left: 148px;
+	border-radius: 7px;
+	float: left;
+	padding-bottom: 58px;
+	text-shadow: 0px 0px;
+}
+.Publicación .Artículo_2 .img1 {
+    width: 141px;
+    height: 201px;
+    margin-top: 23px;
+}
+
+.Contenedor_Principal .Publicación .Artículo_3 {
+	width: 45%;
+	background-color: #A8559B;
+	height: 186px;
+	text-align: center;
+	float: right;
+	margin-top: 12px;
+	margin-right: 15px;
+	border-radius: 7px;
+	
+}
+
+
+
+.Contenedor_Principal .Piede_página {
+	width: 100%;
+	height: 90px;
+	background-color: #EDC5F5;
+	color: #FFFFFF;
+	clear: both;
+	margin-top: 22px;
+	margin-bottom: 11px;
+	border-radius: 5px;
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.Contenedor_Principal .Piede_página p {
+	color: #000000;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 8pt;
+	padding-top: 10px;
+}
+
+.producto {
+}
+.Artículo_2 .producto img {
+	width: 54%;
+	height: 182px;
+	margin-left: -13px;
+	margin-top: 1px;
+	padding-left: 20px;
+	padding-top: 0px;
+	padding-bottom: 1px;
+	hover: 2px;
+	font-family: 'Pacifico', cursive;
+}
+.Título {
+}
+
+
+@media [media-type] ([media-feature]) {
+  /* Styles! */
+}
+body {
+}
+body div {
+	width: 0%;
+}
+.Menú {
+	width: 0%;
+	height: 83px;
+}
+.contenido {
+    width: 100%;
+    height: 350px;
+    background-color: #EF1B9F;
+    margin-top: 6px;
+    border-radius: 8px;
+}
+.contenido #form1 {
+    width: 513px;
+    height: 298px;
+    background-color: #DD9799;
+    border-radius: 13px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    margin-left: 211px;
+    padding-top: 12px;
+    padding-bottom: 13px;
+    clear: both;
+}
+.contenido #form1 #textfield {
+    width: 437px;
+    height: 201px;
+    margin-top: 13px;
+    margin-left: 23px;
+    margin-bottom: 10px;
+    padding-top: 12px;
+}
+.contenido #form1 .text {
+    margin-top: 0px;
+    margin-bottom: -14px;
+    padding-top: 17px;
+    float: left;
+    margin-left: 24px;
+    margin-right: -4px;
+}
+.contenido #form1 #tel {
+    padding-top: 1px;
+    padding-left: 0px;
+    padding-right: 1px;
+    margin-left: 11px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+.Contenedor_Principal nav {
+	width: 11%;
+}
+div h3 a {
+	width: 25%;
+	background-color: #B47494;
+	height: 0px;
+}
+.img {
+    width: 113px;
+    height: 74px;
+    margin-left: -374px;
+    margin-top: 23px;
+    margin-right: 9px;
+    text-shadow: 24px 45px #EF1B9F;
+    background-color: #EF1B9F;
+    -webkit-box-shadow: 5px 4px 6px 1px #EF1B9F;
+    box-shadow: 5px 4px 6px 1px #EF1B9F;
+    border-radius: 11px;
+}
+.img2 {
+    width: 95px;
+    height: 118px;
+    margin-top: 36px;
+    margin-left: -122px;
+    margin-bottom: -133px;
+    margin-right: 0px;
+    -webkit-box-shadow: 5px 4px 9px #EF1B9F;
+    box-shadow: 5px 4px 9px #EF1B9F;
+    border-radius: 10px;
+}
+.dibu2 {
+	width: 81px;
+	height: 109px;
+	float: right;
+	margin-left: -65px;
+	margin-right: -92px;
+	margin-top: 23px;
+}
+.dibu_2 {
+    width: 79px;
+    height: 105px;
+    float: right;
+    margin-left: -56px;
+    margin-right: -96px;
+    margin-top: 24px;
+    -webkit-box-shadow: 5px 4px 6px 1px #EF1B9F;
+    box-shadow: 5px 4px 6px 1px #EF1B9F;
+    border-radius: 10px;
+}
+.dibu_3 {
+	width: 104px;
+	height: 75px;
+	float: right;
+	clear: both;
+	margin-top: 154px;
+	margin-left: -98px;
+	margin-right: -109px;
+	-webkit-box-shadow: 5px 3px 6px 1px #EF1B9F;
+	box-shadow: 5px 3px 6px 1px #EF1B9F;
+	border-radius: 10px;
+}
+.dibu4 {
+	width: 121px;
+	height: 157px;
+	margin-top: 38px;
+	float: none;
+	margin-left: -204px;
+	margin-right: 69px;
+	margin-bottom: -96px;
+	-webkit-box-shadow: 6px 5px 10px 1px #EF1B9F;
+	box-shadow: 6px 5px 10px 1px #EF1B9F;
+	border-radius: 14px;
+}
+.catal {
+}
+.producto h3 .catal {
+    width: 139px;
+    height: 177px;
+    margin-top: 15px;
+    margin-left: 13px;
+}
+.Piede_página p {
+}
+.contenido {
+}
+.text {
+}
+.tel {
+    margin-left: 24px;
+}
+.contenido #form1 #submit {
+    margin-left: 410px;
+}
+
+
+
+@media (min-width: 30em) and (max-width: 80em) {
+  body {
+    background-color: blueviolet;
+  }
+	
